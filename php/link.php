@@ -1,5 +1,6 @@
 <?php
 
+// Use this file for the mysql connection. Require this file where ever you know 
 // $link = mysqli_connect("", "", "","");
 $link = mysqli_connect("localhost", "root", "", "DATABASE_NAME");
 

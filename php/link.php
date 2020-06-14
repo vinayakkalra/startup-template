@@ -1,6 +1,7 @@
 <?php
 
-// $link = mysqli_connect("localhost", "finstreet", "#Rajabeta420","finstreet");
+//Use this file for mysql connectivity. Please require this file in other php files
+// $link = mysqli_connect("", "", "","");
 $link = mysqli_connect("localhost", "root", "", "finstreet_finchords");
 
 if (mysqli_connect_error()){

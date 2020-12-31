@@ -1,4 +1,4 @@
-# template for website structure
+# Startup Template for Website
 
 This template has bootstrap, fontawesome, owl carousal and jquery pre downloaded and added. Please use the same for building a site.
 
